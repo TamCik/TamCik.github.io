@@ -1,0 +1,21 @@
+{
+    "name": "Football News",
+    "gcm_sender_id": "248273847727",
+    "short_name": "PWA Football News",
+    "description": "Aplikasi Informasi Seputar Sepakbola Luar Negeri",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#0091ea",
+    "theme_color": "#0091ea",
+    "icons": [{
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icon2.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
